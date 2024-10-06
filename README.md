@@ -1,3 +1,6 @@
+[![Build & Deploy](https://github.com/amurpo/SDK-Foundation-Vue/actions/workflows/deploy.yml/badge.svg)](https://github.com/amurpo/SDK-Foundation-Vue/actions/workflows/deploy.yml)
+
+
 # The ultimate Vue 3 + PHP web development experience!
 
 From development to deployment, this SDK when paired with your own server running Caprover PaaS (https://caprover.com) provides for the ultimate web development experience.
